@@ -1,5 +1,3 @@
-// TodoList.tsx
-
 import React from "react";
 import { VStack, Heading } from "@chakra-ui/react";
 import type { NextPage } from "next";
